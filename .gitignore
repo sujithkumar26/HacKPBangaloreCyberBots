@@ -28,3 +28,6 @@ __pycache__/
 
 # IDE Files
 .idea/
+
+# virtual env
+/venv/
